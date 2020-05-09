@@ -19,7 +19,7 @@ eureka:
 
 info:
   app.name: microcloud-config-client-dev
-  company.name: com.zf.mo
+  company.name: com.zf.fly
 ---
 server:
   port: 8102
